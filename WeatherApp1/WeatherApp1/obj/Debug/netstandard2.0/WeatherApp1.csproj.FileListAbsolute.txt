@@ -1,0 +1,15 @@
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\bin\Debug\netstandard2.0\WeatherApp1.deps.json
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\bin\Debug\netstandard2.0\WeatherApp1.dll
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\WeatherApp1.csprojAssemblyReference.cache
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\WeatherApp1.AssemblyInfoInputs.cache
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\WeatherApp1.AssemblyInfo.cs
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\bin\Debug\netstandard2.0\ref\WeatherApp1.dll
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\bin\Debug\netstandard2.0\WeatherApp1.pdb
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\WeatherApp1.csproj.CoreCompileInputs.cache
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\WeatherApp1.dll
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\ref\WeatherApp1.dll
+C:\Users\Philc\source\repos\PMDI6\WeatherApp1\WeatherApp1\WeatherApp1\obj\Debug\netstandard2.0\WeatherApp1.pdb
